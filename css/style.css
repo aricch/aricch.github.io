@@ -859,7 +859,7 @@ pre .deletion {
 .category-list-item-list-count {
   float: right;
   margin-left: 150px;
-  margin-right: 150px;
+  margin-right: 8%;
   color: #999;
 }
 .category-list-item-list-link {
@@ -906,7 +906,7 @@ pre .deletion {
 .tags-all-page div ul li small {
   float: right;
   margin-left: 150px;
-  margin-right: 150px;
+  margin-right: 8%;
   color: #999;
 }
 .tags-all-page div ul li a {
