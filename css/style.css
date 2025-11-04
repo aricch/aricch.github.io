@@ -819,3 +819,97 @@ pre .clojure .title {
 pre .deletion {
   color: #dc322f;
 }
+.categories-title {
+  color: #999;
+  font-weight: normal;
+  margin-bottom: 30px;
+  text-shadow: 0 0 1px #fff;
+}
+.categories-title:before {
+  font-family: FontAwesome;
+  content: '\f073';
+  padding-right: 15px;
+}
+.categories-title.tag:before {
+  content: '\f02b';
+}
+.categories-title.category:before {
+  content: '\f07b';
+}
+.categories {
+  -webkit-box-shadow: 1px 2px 3px #ddd;
+  box-shadow: 1px 2px 3px #ddd;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 50px;
+}
+.categories article {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.categories article .post-content {
+  margin-bottom: 0;
+}
+.category-all-page {
+  margin-top: 50px;
+}
+.category-list-item-list {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.category-list-item-list-count {
+  float: right;
+  margin-left: 150px;
+  margin-right: 150px;
+  color: #999;
+}
+.category-list-item-list-link {
+  display: inline-block;
+  width: 200px;
+}
+.tags-title {
+  color: #999;
+  font-weight: normal;
+  margin-bottom: 30px;
+  text-shadow: 0 0 1px #fff;
+}
+.tags-title:before {
+  font-family: FontAwesome;
+  content: '\f073';
+  padding-right: 15px;
+}
+.tags-title.tag:before {
+  content: '\f02b';
+}
+.tags-title.category:before {
+  content: '\f07b';
+}
+.tags {
+  -webkit-box-shadow: 1px 2px 3px #ddd;
+  box-shadow: 1px 2px 3px #ddd;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 50px;
+}
+.tags article {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.tags article .post-content {
+  margin-bottom: 0;
+}
+.tags-all-page {
+  margin-top: 50px;
+}
+.tags-all-page .widget {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.tags-all-page div ul li small {
+  float: right;
+  margin-left: 150px;
+  margin-right: 150px;
+  color: #999;
+}
+.tags-all-page div ul li a {
+  display: inline-block;
+  width: 200px;
+}
