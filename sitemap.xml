@@ -92,16 +92,7 @@
   </url>
   
   <url>
-    <loc>http://www.tripdev.com/markdown/plugins/emoji-dialog/emoji.json</loc>
-    
-    <lastmod>2019-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.tripdev.com/markdown/plugins/html-entities-dialog/html-entities.json</loc>
+    <loc>http://www.tripdev.com/markdown/lib/codemirror/README.html</loc>
     
     <lastmod>2019-05-09</lastmod>
     
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://www.tripdev.com/markdown/lib/codemirror/README.html</loc>
+    <loc>http://www.tripdev.com/markdown/lib/codemirror/package.json</loc>
     
     <lastmod>2019-05-09</lastmod>
     
@@ -128,7 +119,16 @@
   </url>
   
   <url>
-    <loc>http://www.tripdev.com/markdown/lib/codemirror/package.json</loc>
+    <loc>http://www.tripdev.com/markdown/plugins/emoji-dialog/emoji.json</loc>
+    
+    <lastmod>2019-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.tripdev.com/markdown/plugins/html-entities-dialog/html-entities.json</loc>
     
     <lastmod>2019-05-09</lastmod>
     
@@ -161,6 +161,13 @@
   
   <url>
     <loc>http://www.tripdev.com/tags/artifact/</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.tripdev.com/tags/ASCII/</loc>
     <lastmod>2025-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -202,6 +209,13 @@
   </url>
   
   <url>
+    <loc>http://www.tripdev.com/tags/first/</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.tripdev.com/tags/GEO/</loc>
     <lastmod>2025-11-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -236,20 +250,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>http://www.tripdev.com/tags/ASCII/</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.tripdev.com/tags/first/</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -260,14 +260,14 @@
   </url>
   
   <url>
-    <loc>http://www.tripdev.com/categories/ai/</loc>
+    <loc>http://www.tripdev.com/categories/technology/</loc>
     <lastmod>2025-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.tripdev.com/categories/technology/</loc>
+    <loc>http://www.tripdev.com/categories/ai/</loc>
     <lastmod>2025-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
