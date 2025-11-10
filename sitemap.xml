@@ -209,13 +209,6 @@
   </url>
   
   <url>
-    <loc>http://www.tripdev.com/tags/first/</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.tripdev.com/tags/GEO/</loc>
     <lastmod>2025-11-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -245,6 +238,13 @@
   
   <url>
     <loc>http://www.tripdev.com/tags/Authority/</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.tripdev.com/tags/first/</loc>
     <lastmod>2025-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

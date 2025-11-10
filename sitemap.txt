@@ -23,12 +23,12 @@ http://www.tripdev.com/tags/Alien/
 http://www.tripdev.com/tags/Symbiosis/
 http://www.tripdev.com/tags/Emergence/
 http://www.tripdev.com/tags/Purposelessness/
-http://www.tripdev.com/tags/first/
 http://www.tripdev.com/tags/GEO/
 http://www.tripdev.com/tags/Citations/
 http://www.tripdev.com/tags/Intent/
 http://www.tripdev.com/tags/Structure/
 http://www.tripdev.com/tags/Authority/
+http://www.tripdev.com/tags/first/
 http://www.tripdev.com/categories/science/
 http://www.tripdev.com/categories/technology/
 http://www.tripdev.com/categories/ai/
